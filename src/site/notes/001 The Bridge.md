@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/001-the-bridge/","tags":["gardenEntry"]}
 ---
 
-
 ## PhD
 - [[001 Ana Did Science Today\|001 Ana Did Science Today]]
 - [[Make It So\|Make It So]]
