@@ -9,7 +9,16 @@
 - Advantages of Obsidian
 	- Internal Links
 	- Excalidraw
-	- 
+	- Canvas
+	- Github
+	- Digital Garden
+	- Graph view
+- How to link things?
+	- Better Bibtex
+	- Zotero for Obsidian
+	- Pandoc
+	- Templater
+[[Obsidian\|Obsidian]]
 
 ## 22/04/2024 - Chapter 1
 
