@@ -15,7 +15,7 @@
 
 ## Index
 - [[100 A Floresta Aleatória\|100 A Floresta Aleatória]]
-
+- [[300 Doing Science\|300 Doing Science]]
 
 ## Other ongoing projects
 - [[NTFP in Amazonia - RELAM\|NTFP in Amazonia - RELAM]]
