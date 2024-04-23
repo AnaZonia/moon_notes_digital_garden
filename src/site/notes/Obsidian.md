@@ -2,64 +2,8 @@
 {"dg-publish":true,"permalink":"/obsidian/"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/excalidraw/obsidian/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Obsidian
-
-</div>
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Text Elements
-But what is most useful is... 
-Excalidraw 
-Canvas 
-Flow of ideas 
-[[Remote Sensing\|Remote Sensing]] 
-Easy Sharing 
-Graph View 
-- Free
-- Open Source
-- Large Community
-- Many plugins (including one
-that allows running R!)
-- Markdown base (supports LaTeX!)
-- Much customization! 
-- Research Log
-- Lit reviews
-- Brainstorming
-- Data sources, research networks 
-So, what kind of note-taker are YOU? 
-Oldschool Notetaking 
-but then... 
-LINKED NOTES! 
-...And potentially a full "second brain"? 
-Traditional - "simple text is enough!" 
-Visual - "graphs, flowcharts and links, oh my!" 
-All-in-One 
-
-# Embedded files
-f4d245ebac1fd5c0665b3c6697759db57ba75418: [[Pasted Image 20231110005256_953.jpg]]
-e8cf95bf5be55336f61eb0b3e655ca9f951b121e: [[Pasted Image 20231110010750_080.png]]
-f96494660b93e041e146ca5412fcfbbf57f64b24: [[Pasted Image 20231110011420_363.jpg]]
-4b2f694fd2b665056112a9eb590896cf9076c6b2: [[Pasted Image 20231110013105_019.png]]
-e3aac69e367b326a1a998805de44d9dbc240e1e5: [[Pasted Image 20231110013650_299.png]]
-da41045ff023fb967aa94d3874d715556ada8d13: [[Pasted Image 20231110103335_997.jpg]]
-932c0622adc0835282a5e4bdafcf005e20dde3ad: [[Pasted Image 20231110104222_291.jpg]]
-806cfd3b49ce422c44bdce303f870f07484137ee: [[Pasted Image 20231110105425_134.jpg]]
-b750a457dad9eb2ce18d5b7f0b378d8b01df7924: [[Pasted Image 20231110105455_142.png]]
-128f6c7de23058fae8a42da3bf2f7ef23338c7e8: [[Pasted Image 20231110110524_752.png]]
-
-
-
-</div></div>
- - my Excalidraw guide on the tool to the BGSA meeting, 2023
+[[Excalidraw/Obsidian\|Obsidian]] - my Excalidraw guide on the tool to the BGSA meeting, 2023
+[[Templates/Research Article - Legacy\|Research Article - Legacy]]
 
 ![](https://i.imgur.com/lyNDIxT.png)
 
@@ -67,6 +11,9 @@ b750a457dad9eb2ce18d5b7f0b378d8b01df7924: [[Pasted Image 20231110105455_142.png]
 ### If you have questions:
 - [Obsidian Forum](https://forum.obsidian.md/)
 - [r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/)
+- [Obsidian Help](https://help.obsidian.md/Home)
+^note that obsidian sync and publish are paid services - alternatives are [Syncthing](https://syncthing.net/) and the Digital Garden plugin (listed below)
+- or email me! ana.avila@mail.mcgill.ca - if there's enough people trying to get started with Obsidian, we can start a little support group to share resources
 
 ### Youtube tutorials
 - [Nick Milo](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
