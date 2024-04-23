@@ -3,6 +3,7 @@
 ---
 
 [[Excalidraw/Obsidian\|Obsidian]] - my Excalidraw guide on the tool to the BGSA meeting, 2023
+
 [[Templates/Research Article - Legacy\|Research Article - Legacy]]
 
 ![](https://i.imgur.com/lyNDIxT.png)
