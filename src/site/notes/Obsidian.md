@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/obsidian/"}
 ---
 
+[Download - Obsidian](https://obsidian.md/download)
+
 [[Excalidraw/Obsidian\|Obsidian]] - my Excalidraw guide on the tool to the BGSA meeting, 2023
 
 ## Where to learn more about Obsidian?
