@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/chapter-3-incorporating-biodiversity/"}
 ---
 
-## To-do
+Jeff Hall's botanists could be useful to start conceptualizing it, as well as ForestGEO.
 
 ## Writing
 - [[Chapter 3 Background Flowchart\|Chapter 3 Background Flowchart]]
@@ -11,6 +11,7 @@
 
 ![](https://i.imgur.com/E814cN7.png)
 
+s2bak has the average for many years - does not incorporate land use change.
 
 ### Brazil idea
 

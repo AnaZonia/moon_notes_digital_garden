@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/200-life-sciences/"}
 ---
 
- - [[Evolution\|Evolution]]
+- [[Evolution\|Evolution]]
 - [[Biogeochemistry\|Biogeochemistry]]
 - [[Theoretical Ecology\|Theoretical Ecology]]
 - [[Predictive Ecology\|Predictive Ecology]]
@@ -14,7 +14,6 @@
 - [[Community Ecology.canvas|Community Ecology]]
 - [[Macroecology\|Macroecology]]
 - [[Connectivity\|Connectivity]]
-- [[Ecosystem Functioning\|Ecosystem Functioning]]
 - [[Invasion Ecology\|Invasion Ecology]]
 
 ## Textbooks

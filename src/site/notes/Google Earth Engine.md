@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/google-earth-engine/"}
 ---
 
-- Needed to use earthengine auhenticate --auth_mode=notebook to install. Thanks [SpatialThoughts!](https://courses.spatialthoughts.com/install-gee-python-api.html)
+- Needed to use earthengine authenticate --auth_mode=notebook to install. Thanks [SpatialThoughts!](https://courses.spatialthoughts.com/install-gee-python-api.html)
 - [community datasets](https://github.com/samapriya/awesome-gee-community-datasets)
 
 To install GEE:
@@ -13,6 +13,13 @@ conda install -c conda-forge geemap
 sudo apt-get install apt-transport-https ca-certificates gnupg curl sudo
 y
 ```
+
+The information of the saved credentials are in
+~/.config/earthengine/credentials
+^this is what ee.Authenticate() reaches out to
+
+These credentials can be changed with gcloud init (check SpatialThoughts tutorial above)
+
 ### Pros
 - **Easy handling and exporting** of very large data
 - **Easy immediate visualization** of your data on a map

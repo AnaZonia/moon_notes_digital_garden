@@ -23,6 +23,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[Chave 2014\|Chave 2014]]                                                                                                                                           | \-         |
 | [[ForC\|ForC]]                                                                                                                                                       | \-         |
+| [[Forest restoration - a global dataset for biodiversity and vegetation structure\|Forest restoration - a global dataset for biodiversity and vegetation structure]] | 1951-2010  |
 | [[ForestPlots - RAINFOR\|ForestPlots - RAINFOR]]                                                                                                                     | 2000-      |
 | [[GEO-TREES\|GEO-TREES]]                                                                                                                                             | \-         |
 | [[Global Forest Ecosystem Structure and Function Data for Carbon Balance Research\|Global Forest Ecosystem Structure and Function Data for Carbon Balance Research]] | \-         |
@@ -69,11 +70,6 @@
 { .block-language-dataview}
 
 ## Climate
-- [[Evapotranspiration\|Evapotranspiration]]
-- [[Vapor Pressure\|Vapor Pressure]]
-- [[Latent Heat Flux\|Latent Heat Flux]]
-- [[Cumulative Water Deficit\|Cumulative Water Deficit]]
-- [[Leaf Area Index\|Leaf Area Index]]
 
 | Title                                                                                                                                 | Time Range         | Type                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------- |
@@ -89,10 +85,12 @@
 { .block-language-dataview}
 
 ## Soil
-| Title                                                                                                                 | Mission | Time Range |
-| --------------------------------------------------------------------------------------------------------------------- | ------- | ---------- |
-| [[FAO Soil Map of the World\|FAO Soil Map of the World]]                                                           | \-      | \-         |
-| [[Soil exchangeable cation concentration map of Amazonia\|Soil exchangeable cation concentration map of Amazonia]] | \-      | \-         |
+| Title                                                                                                                 | Mission                                                | Time Range |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
+| [[ALOS Landforms\|ALOS Landforms]]                                                                                 | <ul><li>[[PALSAR - ALOS.md\\|PALSAR - ALOS]]</li></ul> | 2006-2011  |
+| [[FAO Soil Map of the World\|FAO Soil Map of the World]]                                                           | \-                                                     | \-         |
+| [[Soil exchangeable cation concentration map of Amazonia\|Soil exchangeable cation concentration map of Amazonia]] | \-                                                     | \-         |
+| [[SoilGrids\|SoilGrids]]                                                                                           | \-                                                     | \-         |
 
 { .block-language-dataview}
 
@@ -104,3 +102,4 @@
 - [FAO Forest Inventory](https://microdata.fao.org/index.php/catalog/Forestry/?page=1&sort_by=popularity&sort_order=desc&ps=15&repo=Forestry)
 - [[SiBBr - Sistema de Informação sobre a Biodiversidade Brasileira\|SiBBr - Sistema de Informação sobre a Biodiversidade Brasileira]]
 - [SUS -AlertaDengue](https://github.com/AlertaDengue/PySUS)
+- [Natural Earth Local Rasters](https://www.naturalearthdata.com/)

@@ -8,7 +8,7 @@
 - [[Presenting Science\|Presenting Science]]
 - [[Debates and Discourse\|Debates and Discourse]]
 - [[Scientific Writing\|Scientific Writing]]
-- [[Outreach\|Outreach]]
+- [[Science Journalism\|Science Journalism]]
 
 ## Academia
 - [[Should scientists include their race, gender, or other personal details in papers\|Should scientists include their race, gender, or other personal details in papers]]

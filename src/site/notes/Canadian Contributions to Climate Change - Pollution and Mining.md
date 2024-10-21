@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/canadian-contributions-to-climate-change-pollution-and-mining/","tags":["tribble"]}
+{"dg-publish":true,"permalink":"/canadian-contributions-to-climate-change-pollution-and-mining/"}
 ---
 
 [The “Canada Brand”: Violence and Canadian Mining Companies in Latin America - Justice & Corporate Accountability Project](https://justice-project.org/the-canada-brand-violence-and-canadian-mining-companies-in-latin-america/)

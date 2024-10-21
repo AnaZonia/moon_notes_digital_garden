@@ -70,7 +70,7 @@
 ![Obsidian Menu.png](/img/user/Files/Obsidian%20Menu.png)![Obsidian Menu-1.png](/img/user/Files/Obsidian%20Menu-1.png)
 
 ## Zotero tag import snippets
-[[Templates/Research Article - Legacy\|Research Article - Legacy]]
+[[Templates/Legacy/Research Article - Legacy\|Research Article - Legacy]]
 
 {% if tags.length > 0 -%}{% for t in tags -%}#{% if t.tag == "secondary" %}source/secondary{% if not loop.last %}{% endif %}{% elif t.tag == "primary" %}source/primary{% if not loop.last %}{% endif %}{% elif "-project" in t.tag %}project/{{t.tag | lower | replace(" ", "-") | replace("-project", "")}}{% else %}subject/{{t.tag | lower | replace(" ", "-")}}{% endif %}{% if not loop.last %} {% endif %}{%- endfor %}{%- endif %}
 
